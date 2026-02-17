@@ -2,7 +2,7 @@
 
 A full-stack web application that ingests LAS (Log ASCII Standard) files, stores and parses well-log data, visualizes curves interactively, and provides AI-assisted geological interpretation using Google Gemini. Features a real-time chatbot interface for querying well data.
 
-Deployment link: https://well-data-analyzer-frontend-uifv.vercel.app/
+Deployment link: [https://well-data-analyzer-frontend-uifv.vercel.app/](https://well-data-analyzer-frontend.vercel.app/login)
 
 ---
 
